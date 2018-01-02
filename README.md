@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Disciplina: Banco de Dados II</h1>
-<h2 href="http://lattes.cnpq.br/3109895561145359" align="center">Profª Me. Adriana Rebouças</h2>
+<h2 align="center"><a href="http://lattes.cnpq.br/3109895561145359">Profª Me. Adriana Rebouças</a></h2>
 
 ## Apresentação da disciplina 
 
@@ -146,20 +146,20 @@
  
  ![](http://pearson.vteximg.com.br/arquivos/ids/156655-264-362/Sistemas-de-Banco-de-Dados_9788579360855.jpg?v=635725689561070000)
  
- ELMASRI,Ramez.,NAVATHE.Sistemas de Banco de Dados.  6a Ed. Pearson Education. 2011. 
+### ELMASRI,Ramez.,NAVATHE.Sistemas de Banco de Dados.  6a Ed. Pearson Education. 2011. 
  
  ![](http://4.bp.blogspot.com/_aFYkUPKyX3M/Rxf-sUuBkKI/AAAAAAAABfM/Lu16szZ5aSI/s400/Sistema+de+Banco+de+Dados+-+Korth.jpg)
  
- KORTH, Henry F., S. Sudarshan, Silberschatz, Abraham. Sistema de Banco de Dados 6a Ed. Elsevier, 2012. 
+### KORTH, Henry F., S. Sudarshan, Silberschatz, Abraham. Sistema de Banco de Dados 6a Ed. Elsevier, 2012. 
  
  ![](http://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/25bc1d5c8339d1c049f6300bb9f832ebc3b20347.jpg)
  
- TEOREY, Toby., LIGHTSTONE, Sam., NADEAU, Tom. Projeto e Modelagem de Bancos de Dados ­ 2a Ed. Elsevier, 2013. 
+### TEOREY, Toby., LIGHTSTONE, Sam., NADEAU, Tom. Projeto e Modelagem de Bancos de Dados ­ 2a Ed. Elsevier, 2013. 
  
  ![](https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=4060395&qld=90&l=430&a=-1)
  
- CARDOSO, Giselle., Virgínia. Sistemas de Banco de Dados. 1a Ed.Saraiva, 2012. 
+### CARDOSO, Giselle., Virgínia. Sistemas de Banco de Dados. 1a Ed.Saraiva, 2012. 
  
  ---
-MIT](LICENSE) &copy; ![](http://res.cloudinary.com/marcialwushu/image/upload/c_scale,w_26/v1514915463/29687_Faculdade_Integrada_da_Grande_Fortaleza_ytbyse.jpg) FGF College Work
+[MIT](LICENSE) &copy; ![](http://res.cloudinary.com/marcialwushu/image/upload/c_scale,w_26/v1514915463/29687_Faculdade_Integrada_da_Grande_Fortaleza_ytbyse.jpg) FGF College Work
 
