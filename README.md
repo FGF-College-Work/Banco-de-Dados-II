@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Disciplina: Banco de Dados II</h1>
-<h2 align="center">[Profª Me. Adriana Rebouças](http://lattes.cnpq.br/3109895561145359)</h2>
+<h2 href="http://lattes.cnpq.br/3109895561145359" align="center">Profª Me. Adriana Rebouças</h2>
 
 ## Apresentação da disciplina 
 
@@ -145,15 +145,19 @@
  ### Bibliografica Utilizada:
  
  ![](http://pearson.vteximg.com.br/arquivos/ids/156655-264-362/Sistemas-de-Banco-de-Dados_9788579360855.jpg?v=635725689561070000)
+ 
  ELMASRI,Ramez.,NAVATHE.Sistemas de Banco de Dados.  6a Ed. Pearson Education. 2011. 
  
- ![](https://carrinho.pontofrio.com.br/livros/InformaticaCertificacao/BancodeDados/1736038/6551523/Sistema-de-Banco-de-Dados-Abraham-Silberschatz-Henry-F-Korth-e-S-Sudarshan-1736038.jpg)
+ ![](http://4.bp.blogspot.com/_aFYkUPKyX3M/Rxf-sUuBkKI/AAAAAAAABfM/Lu16szZ5aSI/s400/Sistema+de+Banco+de+Dados+-+Korth.jpg)
+ 
  KORTH, Henry F., S. Sudarshan, Silberschatz, Abraham. Sistema de Banco de Dados 6a Ed. Elsevier, 2012. 
  
  ![](http://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/25bc1d5c8339d1c049f6300bb9f832ebc3b20347.jpg)
+ 
  TEOREY, Toby., LIGHTSTONE, Sam., NADEAU, Tom. Projeto e Modelagem de Bancos de Dados ­ 2a Ed. Elsevier, 2013. 
  
  ![](https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=4060395&qld=90&l=430&a=-1)
+ 
  CARDOSO, Giselle., Virgínia. Sistemas de Banco de Dados. 1a Ed.Saraiva, 2012. 
  
  ---
